@@ -1,2 +1,3 @@
 # FSD-TRAINING
-This folder is about 6-month intership in Full stack development.
+This repository is about 6-month training in Full stack development.
+author-Mehak
